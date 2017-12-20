@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="testo_libero" label="testo libero" language="en" table="x_174877_stella_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testo_libero</element>
+            <help/>
+            <hint/>
+            <label>testo libero</label>
+            <language>en</language>
+            <name>x_174877_stella_needit</name>
+            <plural>testo liberos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-20 18:47:58</sys_created_on>
+            <sys_id>2458569fdbc70300962bd450cf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>testo libero</sys_name>
+            <sys_package display_value="Stella" source="x_174877_stella">6a69f027db220300962bd450cf961941</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Stella">6a69f027db220300962bd450cf961941</sys_scope>
+            <sys_update_name>sys_documentation_x_174877_stella_needit_testo_libero_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-20 18:47:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

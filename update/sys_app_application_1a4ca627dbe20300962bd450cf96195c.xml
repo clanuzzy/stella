@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>METT</name>
+        <order>100</order>
+        <roles>x_174877_stella.mett_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-26 18:22:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a4ca627dbe20300962bd450cf96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>METT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Stella" source="x_174877_stella">6a69f027db220300962bd450cf961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stella">6a69f027db220300962bd450cf961941</sys_scope>
+        <sys_update_name>sys_app_application_1a4ca627dbe20300962bd450cf96195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-26 18:22:17</sys_updated_on>
+        <title>METT</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

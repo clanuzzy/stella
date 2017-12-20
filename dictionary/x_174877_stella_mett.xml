@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="METT" max_length="40" name="x_174877_stella_mett" type="collection">
+        <element display="true" label="ID" max_length="15" name="id" type="string"/>
+    </element>
+</database>

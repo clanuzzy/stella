@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="New Section" section_id="07381021db830300962bd450cf96199a" sys_domain="global" table="x_174877_stella_innovate" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_time_3</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-14 23:03:41</sys_created_on>
+            <sys_id>80591061db830300962bd450cf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_174877_stella_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">07381021db830300962bd450cf96199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-14 23:03:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_5</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-14 23:03:41</sys_created_on>
+            <sys_id>04591061db830300962bd450cf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_174877_stella_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">07381021db830300962bd450cf96199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-14 23:03:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_full_utf8_4</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-14 23:03:41</sys_created_on>
+            <sys_id>84591061db830300962bd450cf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_174877_stella_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">07381021db830300962bd450cf96199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-14 23:03:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-14 23:03:41</sys_created_on>
+            <sys_id>08591061db830300962bd450cf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_174877_stella_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">07381021db830300962bd450cf96199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-14 23:03:41</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-14 23:03:41</sys_created_on>
+            <sys_id>0c591061db830300962bd450cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_174877_stella_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">07381021db830300962bd450cf96199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-14 23:03:41</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_174877_stella_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-14 22:58:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07381021db830300962bd450cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Stella" source="x_174877_stella">6a69f027db220300962bd450cf961941</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Stella">6a69f027db220300962bd450cf961941</sys_scope>
+            <sys_update_name>sys_ui_section_07381021db830300962bd450cf96199a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-14 22:58:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
